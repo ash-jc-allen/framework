@@ -708,6 +708,7 @@ class Arr
                 $updatedArray[$key] = $value;
             }
         }
+
         return $updatedArray;
     }
 }
